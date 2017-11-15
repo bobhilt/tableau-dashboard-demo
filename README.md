@@ -2,6 +2,8 @@
 
 Bob Hiltner will demonstrate live how to build an analysis dashboard from scratch in Tableau. Using variable parameters and filters, see how Tableau brings a tabular dataset into a beautiful and useful visual framework that gives you a compelling way to tell your data's story.
 
+Tableau public workbook available [here.](https://public.tableau.com/profile/bob.hiltner#!/vizhome/WorldHealthIndicators-HonoluluDataScienceTableauDemo/FertilityRatevsLongevity?publish=yes)
+
 **Description of "World Health Indicators - Fertility & Longevity"**
 Fertility Rate (Data (Fertility-Rate)) vs. Life Expectancy at Birth (Data (Life-Expectancy-At-Birth)).  Color shows details about Region (Metadata - Countries (Country-Metadata)).  Size shows Population.  Details are shown for Country Name (Metadata - Countries (Country-Metadata)). The view is filtered on Region (Metadata - Countries (Country-Metadata)), which excludes Null.
 Marks
